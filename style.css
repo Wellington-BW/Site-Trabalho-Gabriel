@@ -1,0 +1,46 @@
+#menu a{
+    padding: 50px 20px;
+    text-decoration: none;
+    color: rgb(31, 30, 30);
+    text-shadow: 1px  #111111;
+}
+.titulo{
+    margin: 0 0 50px 0;
+    padding: 10px 0 0 25px;
+}
+h3{
+    padding: 20px 0 0 0;
+}
+#principal{
+    color: whitesmoke;
+    margin-top: 20px;
+    background-color: rgb(35, 35, 110);
+    padding: 10px 0 10px 0;
+    clear: both;   
+}
+.container{
+    width: 960px;
+    margin:0 auto;
+}
+#fimfooter{
+    clear: both;
+    font-size: 15px;
+    height: 30px;
+    text-align: center;
+    padding: 40px 0px 10px 0px;
+    color: grey;
+}
+#curso{
+    margin-top: 0px;
+    width: 340px;
+    height: 240px;
+    clear: both;
+}
+p2{
+    font-size: 15px;
+    font-family: "Arial";
+    padding: 10px 0 0 10px;
+}
+.card-text{
+    color: black;
+}
