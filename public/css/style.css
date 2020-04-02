@@ -1,0 +1,15 @@
+header{
+    border-bottom: 1px solid #ccc;
+}
+#principal{
+    color: whitesmoke;
+    background-color: rgb(35, 35, 110);
+   }
+
+p2{
+    font-size: 15px;
+    font-family: "Arial";
+}
+.card-text{
+    color: black;
+}
